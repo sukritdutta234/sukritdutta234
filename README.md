@@ -1,5 +1,6 @@
 # 💫 About Me:
-JAVA<br>html<br>css<br>javascript<br>
+Hi, I'm Sukrit<br>I'm a beginner exploring the world of programming.<br>My goal is to build a strong foundation in coding and share my progress openly.  
+I believe every small program is a milestone, and this space is where I collect those milestones.<br>If you're also starting out, feel free to connect—we can learn together!<br>
 
 
 ## 🌐 Socials:
